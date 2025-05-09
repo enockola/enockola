@@ -1,40 +1,22 @@
-## Hi there 👋
-
-<!--
-**enockola/enockola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# <Your Name Here>
+# Enoch Olayemi
 
 Hello, GitHub! 👋
 
-I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Enoch, a student at Brigham Young University-Idaho interested in computer science, web design and development, and a little bit of cybersecurity. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning the Elixir Programming language, as I find it interesting and worthwhile to learn.
+- My goals are to develop mastery in as many things that I have interest in. Not just in coding alone, I have some interest in drawing, painting, and playing the guitar.
+- Ask me about anything!
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: Python, C#, HTML, CSS, Javascript, Erlang & Elixir.
+- Skills: Communication, Teamwork, and Leadership skills
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/enoch-olayemi-9617b6298/)) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
