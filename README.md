@@ -17,6 +17,6 @@ I'm Enoch, a student at Brigham Young University-Idaho interested in computer sc
 
 ## Let's Connect!
 
-- Here is my [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/enoch-olayemi-9617b6298/)) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/enoch-olayemi-9617b6298/) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
